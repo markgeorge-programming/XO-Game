@@ -1,1 +1,3 @@
-# exow
+Use array numbers to play your turn. Just don't play in the same space because your turn will be skipped...
+Number for rows range between 0-->2
+Game is still under development. This is a Beta version created on 23-12-2023
